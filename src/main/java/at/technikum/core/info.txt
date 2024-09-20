@@ -1,0 +1,7 @@
+Service Layer
+
+Diese Schicht enthält die Geschäftslogik der Anwendung, also bildet das Verhalten ab.
+
+Hier werden die Regeln zur Datenmanipulation festgelegt und Validierungen durchgeführt.
+
+Die Service-Klassen rufen die Repository-Klassen auf, um auf die Datenbank zuzugreifen.

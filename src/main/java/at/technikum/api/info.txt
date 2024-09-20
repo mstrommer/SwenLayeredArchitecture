@@ -1,0 +1,6 @@
+Presentation Layer (API Layer)
+
+Diese Schicht verarbeitet HTTP-Anfragen und Antworten.
+
+Sie beinhaltet die Endpunkte (Controller), die die Daten vom Client empfangen,
+verarbeiten und an die darunterliegenden Schichten weitergeben.
